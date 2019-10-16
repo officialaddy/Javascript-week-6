@@ -3,7 +3,7 @@
 ## ES6+ features:
 ## 1).map function: Map function allows us to creat a new array for each element of the array. and it does not excute without the values of the array.
 # [More details about .map functions!] https://www.w3schools.com/jsref/jsref_map.asp
-![image of how the .map function works](https://github.com/officialaddy/Javascript-week-6/blob/master/Screenshot%202019-10-16%20at%209.20.25%20AM.jpeg)
+![image of how the .map function works](https://github.com/officialaddy/Javascript-week-6/blob/master/JAVA6SS.jpg)
  ```javascript  let tweets = [];
 
 var btn = document.querySelector('#tweet');
